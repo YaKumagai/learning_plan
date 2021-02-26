@@ -7,8 +7,8 @@
 - git add .
 - git commit -m "first commit"
 - git commit -m "2021年2月26日 commit"
-- git remote add origin git@github.com:YaKumagai/learning_plan.git
 - git branch -M main
+- git remote add origin git@github.com:YaKumagai/learning_plan.git
 - git push -u origin main
 - git push origin feature
 - git push origin feature2
